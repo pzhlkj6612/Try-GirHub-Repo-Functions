@@ -19,7 +19,7 @@ dangling tree 4b825dc642cb6eb9a060e54bf8d69288fbee4904
 dangling commit 8bb6500ad980bdce4c91cbfcc359a6d0871f3077
 ```
 
-the 894cfcc2f4bbefc932475afce4bdf7a6a825c26e is unreachable by URL, I don't know why:
+the [894cfcc2f4bbefc932475afce4bdf7a6a825c26e](https://github.com/pzhlkj6612/Try-GitHub-Repo-Functions/commit/894cfcc2f4bbefc932475afce4bdf7a6a825c26e) is unreachable by URL, I don't know why:
 
 ```
 $ git show 894cfcc2f4bbefc932475afce4bdf7a6a825c26e
