@@ -38,6 +38,4 @@ index 08fe272..c7f3e92 100644
 +sensitive info
 ```
 
-
-
-wtf...girhub :( 
+girhub :(
